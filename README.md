@@ -1,0 +1,2 @@
+# CMakeTemplate
+my cmake template
