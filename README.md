@@ -1,2 +1,3 @@
-# CMakeTemplate
-my cmake template
+# Project name here
+
+description here.
